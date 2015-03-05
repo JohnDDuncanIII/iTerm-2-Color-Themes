@@ -13,6 +13,12 @@ I'm moved to a **non proprietary** working environment lately: this repository i
 ## Previews
 ###photons
 ![photons](https://github.com/JohnDDuncanIII/iTerm-2-Color-Themes/raw/master/previews/photons.png)  
+###thayer
+![thayer](https://github.com/JohnDDuncanIII/iTerm-2-Color-Themes/raw/master/previews/thayer.png)  
+###wryan
+![wryan](https://github.com/JohnDDuncanIII/iTerm-2-Color-Themes/raw/master/previews/wryan.png)  
+###solarized
+![solarized](https://github.com/JohnDDuncanIII/iTerm-2-Color-Themes/raw/master/previews/solarized-vim.png)  
 ###arthur
 ![arthur](https://github.com/JohnDDuncanIII/iTerm-2-Color-Themes/raw/master/previews/arthur.png)  
 ###n0tch2k
@@ -21,10 +27,6 @@ I'm moved to a **non proprietary** working environment lately: this repository i
 ![pnevma](https://github.com/JohnDDuncanIII/iTerm-2-Color-Themes/raw/master/previews/pnevma.png)  
 ###square
 ![square](https://github.com/JohnDDuncanIII/iTerm-2-Color-Themes/raw/master/previews/square.png)  
-###thayer
-![thayer](https://github.com/JohnDDuncanIII/iTerm-2-Color-Themes/raw/master/previews/thayer.png)  
-###wryan
-![wryan](https://github.com/JohnDDuncanIII/iTerm-2-Color-Themes/raw/master/previews/wryan.png)  
 ###zenburn
 ![zenburn](https://github.com/JohnDDuncanIII/iTerm-2-Color-Themes/raw/master/previews/zenburn.png)  
 
